@@ -1,1 +1,2 @@
-foo
+short: $Format:%h$
+long: $Format:%H$
